@@ -10,8 +10,7 @@
 - SQL
 - Python
 
-🔧 **Lenguajes que manejo**:
-- ¡Y algunos más por venir! 🚀
+🔧 **¡Y algunos más por venir!** 🚀
 
 En mi perfil encontrarás proyectos chulos relacionados con:
 - 📈 Marketing
