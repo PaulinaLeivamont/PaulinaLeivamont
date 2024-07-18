@@ -15,6 +15,7 @@ En mi perfil encontrarás proyectos chulos relacionados con:
 - 📈 Marketing
 - 🛒 E-commerce
 - 📱 Desarrollo de apps
+- 🌐 Desarrollo Web 
 
   🔧---------------  **¡Y algunos más por venir!** 🚀
 
