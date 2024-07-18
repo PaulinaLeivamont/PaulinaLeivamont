@@ -10,11 +10,12 @@
 - SQL
 - Python
 
-🔧 **¡Y algunos más por venir!** 🚀
 
 En mi perfil encontrarás proyectos chulos relacionados con:
 - 📈 Marketing
 - 🛒 E-commerce
 - 📱 Desarrollo de apps
+
+  🔧---------------  **¡Y algunos más por venir!** 🚀
 
 Espero que lo disfrutes tanto como yo disfruto creándolos. ¡Explora y descubre! 🌟
